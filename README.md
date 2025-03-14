@@ -1,4 +1,4 @@
-# C-Sharp-Project<br/>
+# C-Sharp-Project-OOP2<br/>
 4th Semester (Undergraduate)AIUB<br/>
 Course: Object Oriented Programming-2(C#)<br/>
 Instructor: NAZMUS SAKIB SHAN<br/>
